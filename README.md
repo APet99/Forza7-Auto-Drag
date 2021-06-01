@@ -138,13 +138,13 @@ Going to the project directory
 Running the script
 
    ```sh
-   python main.py
+   python drag.py
    ```
 
 **Note: If you want the script to run in the background**
 
    ```sh
-   python main.py &
+   python drag.py &
    ```
 
 ## Roadmap
